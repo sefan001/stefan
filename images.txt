@@ -1,6 +1,6 @@
 #redis:7.4.1
 #nginx:1.27.2
-mysql
+mysql:9.1.0
 #nacos/nacos-server:v2.4.3
 #nacos/nacos-server:v2.1.0
 #redis
